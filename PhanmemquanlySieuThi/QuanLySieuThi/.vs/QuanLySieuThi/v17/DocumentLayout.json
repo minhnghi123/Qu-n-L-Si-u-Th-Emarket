@@ -1,0 +1,492 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TUF-GAMING\\Desktop\\PhanmemquanlySieuThi\\PhanmemquanlySieuThi\\QuanLySieuThi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA7A9888-FA04-466B-90D0-CF2A7CECC943}|QuanLySieuThi\\QuanLySieuThi.csproj|C:\\Users\\TUF-GAMING\\Desktop\\PhanmemquanlySieuThi\\PhanmemquanlySieuThi\\QuanLySieuThi\\quanlysieuthi\\taikhoan\\tkquanly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DA7A9888-FA04-466B-90D0-CF2A7CECC943}|QuanLySieuThi\\QuanLySieuThi.csproj|solutionrelative:quanlysieuthi\\taikhoan\\tkquanly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA7A9888-FA04-466B-90D0-CF2A7CECC943}|QuanLySieuThi\\QuanLySieuThi.csproj|c:\\users\\tuf-gaming\\desktop\\phanmemquanlysieuthi\\phanmemquanlysieuthi\\quanlysieuthi\\quanlysieuthi\\taikhoan\\tknhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DA7A9888-FA04-466B-90D0-CF2A7CECC943}|QuanLySieuThi\\QuanLySieuThi.csproj|solutionrelative:quanlysieuthi\\taikhoan\\tknhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA7A9888-FA04-466B-90D0-CF2A7CECC943}|QuanLySieuThi\\QuanLySieuThi.csproj|c:\\users\\tuf-gaming\\desktop\\phanmemquanlysieuthi\\phanmemquanlysieuthi\\quanlysieuthi\\quanlysieuthi\\taikhoan\\tkadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DA7A9888-FA04-466B-90D0-CF2A7CECC943}|QuanLySieuThi\\QuanLySieuThi.csproj|solutionrelative:quanlysieuthi\\taikhoan\\tkadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA7A9888-FA04-466B-90D0-CF2A7CECC943}|QuanLySieuThi\\QuanLySieuThi.csproj|c:\\users\\tuf-gaming\\desktop\\phanmemquanlysieuthi\\phanmemquanlysieuthi\\quanlysieuthi\\quanlysieuthi\\quanly\\qlphieuxuat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DA7A9888-FA04-466B-90D0-CF2A7CECC943}|QuanLySieuThi\\QuanLySieuThi.csproj|solutionrelative:quanlysieuthi\\quanly\\qlphieuxuat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA7A9888-FA04-466B-90D0-CF2A7CECC943}|QuanLySieuThi\\QuanLySieuThi.csproj|c:\\users\\tuf-gaming\\desktop\\phanmemquanlysieuthi\\phanmemquanlysieuthi\\quanlysieuthi\\quanlysieuthi\\quanly\\qlphieunhap1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DA7A9888-FA04-466B-90D0-CF2A7CECC943}|QuanLySieuThi\\QuanLySieuThi.csproj|solutionrelative:quanlysieuthi\\quanly\\qlphieunhap1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA7A9888-FA04-466B-90D0-CF2A7CECC943}|QuanLySieuThi\\QuanLySieuThi.csproj|c:\\users\\tuf-gaming\\desktop\\phanmemquanlysieuthi\\phanmemquanlysieuthi\\quanlysieuthi\\quanlysieuthi\\quanly\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DA7A9888-FA04-466B-90D0-CF2A7CECC943}|QuanLySieuThi\\QuanLySieuThi.csproj|solutionrelative:quanlysieuthi\\quanly\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA7A9888-FA04-466B-90D0-CF2A7CECC943}|QuanLySieuThi\\QuanLySieuThi.csproj|c:\\users\\tuf-gaming\\desktop\\phanmemquanlysieuthi\\phanmemquanlysieuthi\\quanlysieuthi\\quanlysieuthi\\quanly\\nhacungcap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DA7A9888-FA04-466B-90D0-CF2A7CECC943}|QuanLySieuThi\\QuanLySieuThi.csproj|solutionrelative:quanlysieuthi\\quanly\\nhacungcap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA7A9888-FA04-466B-90D0-CF2A7CECC943}|QuanLySieuThi\\QuanLySieuThi.csproj|c:\\users\\tuf-gaming\\desktop\\phanmemquanlysieuthi\\phanmemquanlysieuthi\\quanlysieuthi\\quanlysieuthi\\quanly\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DA7A9888-FA04-466B-90D0-CF2A7CECC943}|QuanLySieuThi\\QuanLySieuThi.csproj|solutionrelative:quanlysieuthi\\quanly\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA7A9888-FA04-466B-90D0-CF2A7CECC943}|QuanLySieuThi\\QuanLySieuThi.csproj|c:\\users\\tuf-gaming\\desktop\\phanmemquanlysieuthi\\phanmemquanlysieuthi\\quanlysieuthi\\quanlysieuthi\\quanly\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DA7A9888-FA04-466B-90D0-CF2A7CECC943}|QuanLySieuThi\\QuanLySieuThi.csproj|solutionrelative:quanlysieuthi\\quanly\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA7A9888-FA04-466B-90D0-CF2A7CECC943}|QuanLySieuThi\\QuanLySieuThi.csproj|c:\\users\\tuf-gaming\\desktop\\phanmemquanlysieuthi\\phanmemquanlysieuthi\\quanlysieuthi\\quanlysieuthi\\banhang\\phieunhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DA7A9888-FA04-466B-90D0-CF2A7CECC943}|QuanLySieuThi\\QuanLySieuThi.csproj|solutionrelative:quanlysieuthi\\banhang\\phieunhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA7A9888-FA04-466B-90D0-CF2A7CECC943}|QuanLySieuThi\\QuanLySieuThi.csproj|c:\\users\\tuf-gaming\\desktop\\phanmemquanlysieuthi\\phanmemquanlysieuthi\\quanlysieuthi\\quanlysieuthi\\banhang\\banhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DA7A9888-FA04-466B-90D0-CF2A7CECC943}|QuanLySieuThi\\QuanLySieuThi.csproj|solutionrelative:quanlysieuthi\\banhang\\banhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA7A9888-FA04-466B-90D0-CF2A7CECC943}|QuanLySieuThi\\QuanLySieuThi.csproj|c:\\users\\tuf-gaming\\desktop\\phanmemquanlysieuthi\\phanmemquanlysieuthi\\quanlysieuthi\\quanlysieuthi\\quanly\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA7A9888-FA04-466B-90D0-CF2A7CECC943}|QuanLySieuThi\\QuanLySieuThi.csproj|solutionrelative:quanlysieuthi\\quanly\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA7A9888-FA04-466B-90D0-CF2A7CECC943}|QuanLySieuThi\\QuanLySieuThi.csproj|c:\\users\\tuf-gaming\\desktop\\phanmemquanlysieuthi\\phanmemquanlysieuthi\\quanlysieuthi\\quanlysieuthi\\quanly\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA7A9888-FA04-466B-90D0-CF2A7CECC943}|QuanLySieuThi\\QuanLySieuThi.csproj|solutionrelative:quanlysieuthi\\quanly\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/ALIEN_SQLEXPRESS/QuanLySieuThi/True/SqlTable/dbo.Admin.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA7A9888-FA04-466B-90D0-CF2A7CECC943}|QuanLySieuThi\\QuanLySieuThi.csproj|c:\\users\\tuf-gaming\\desktop\\phanmemquanlysieuthi\\phanmemquanlysieuthi\\quanlysieuthi\\quanlysieuthi\\banhang\\phieuxuat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA7A9888-FA04-466B-90D0-CF2A7CECC943}|QuanLySieuThi\\QuanLySieuThi.csproj|solutionrelative:quanlysieuthi\\banhang\\phieuxuat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA7A9888-FA04-466B-90D0-CF2A7CECC943}|QuanLySieuThi\\QuanLySieuThi.csproj|c:\\users\\tuf-gaming\\desktop\\phanmemquanlysieuthi\\phanmemquanlysieuthi\\quanlysieuthi\\quanlysieuthi\\banhang\\phieuxuat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DA7A9888-FA04-466B-90D0-CF2A7CECC943}|QuanLySieuThi\\QuanLySieuThi.csproj|solutionrelative:quanlysieuthi\\banhang\\phieuxuat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA7A9888-FA04-466B-90D0-CF2A7CECC943}|QuanLySieuThi\\QuanLySieuThi.csproj|c:\\users\\tuf-gaming\\desktop\\phanmemquanlysieuthi\\phanmemquanlysieuthi\\quanlysieuthi\\quanlysieuthi\\taikhoan\\doimk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DA7A9888-FA04-466B-90D0-CF2A7CECC943}|QuanLySieuThi\\QuanLySieuThi.csproj|solutionrelative:quanlysieuthi\\taikhoan\\doimk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA7A9888-FA04-466B-90D0-CF2A7CECC943}|QuanLySieuThi\\QuanLySieuThi.csproj|c:\\users\\tuf-gaming\\desktop\\phanmemquanlysieuthi\\phanmemquanlysieuthi\\quanlysieuthi\\quanlysieuthi\\banhang\\banhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA7A9888-FA04-466B-90D0-CF2A7CECC943}|QuanLySieuThi\\QuanLySieuThi.csproj|solutionrelative:quanlysieuthi\\banhang\\banhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA7A9888-FA04-466B-90D0-CF2A7CECC943}|QuanLySieuThi\\QuanLySieuThi.csproj|c:\\users\\tuf-gaming\\desktop\\phanmemquanlysieuthi\\phanmemquanlysieuthi\\quanlysieuthi\\quanlysieuthi\\banhang\\phieunhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA7A9888-FA04-466B-90D0-CF2A7CECC943}|QuanLySieuThi\\QuanLySieuThi.csproj|solutionrelative:quanlysieuthi\\banhang\\phieunhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA7A9888-FA04-466B-90D0-CF2A7CECC943}|QuanLySieuThi\\QuanLySieuThi.csproj|C:\\Users\\TUF-GAMING\\Desktop\\PhanmemquanlySieuThi\\PhanmemquanlySieuThi\\QuanLySieuThi\\quanlysieuthi\\dangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DA7A9888-FA04-466B-90D0-CF2A7CECC943}|QuanLySieuThi\\QuanLySieuThi.csproj|solutionrelative:quanlysieuthi\\dangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA7A9888-FA04-466B-90D0-CF2A7CECC943}|QuanLySieuThi\\QuanLySieuThi.csproj|C:\\Users\\TUF-GAMING\\Desktop\\PhanmemquanlySieuThi\\PhanmemquanlySieuThi\\QuanLySieuThi\\quanlysieuthi\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DA7A9888-FA04-466B-90D0-CF2A7CECC943}|QuanLySieuThi\\QuanLySieuThi.csproj|solutionrelative:quanlysieuthi\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA7A9888-FA04-466B-90D0-CF2A7CECC943}|QuanLySieuThi\\QuanLySieuThi.csproj|C:\\Users\\TUF-GAMING\\Desktop\\PhanmemquanlySieuThi\\PhanmemquanlySieuThi\\QuanLySieuThi\\quanlysieuthi\\main2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DA7A9888-FA04-466B-90D0-CF2A7CECC943}|QuanLySieuThi\\QuanLySieuThi.csproj|solutionrelative:quanlysieuthi\\main2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA7A9888-FA04-466B-90D0-CF2A7CECC943}|QuanLySieuThi\\QuanLySieuThi.csproj|C:\\Users\\TUF-GAMING\\Desktop\\PhanmemquanlySieuThi\\PhanmemquanlySieuThi\\QuanLySieuThi\\quanlysieuthi\\main1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DA7A9888-FA04-466B-90D0-CF2A7CECC943}|QuanLySieuThi\\QuanLySieuThi.csproj|solutionrelative:quanlysieuthi\\main1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA7A9888-FA04-466B-90D0-CF2A7CECC943}|QuanLySieuThi\\QuanLySieuThi.csproj|c:\\users\\tuf-gaming\\desktop\\phanmemquanlysieuthi\\phanmemquanlysieuthi\\quanlysieuthi\\quanlysieuthi\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA7A9888-FA04-466B-90D0-CF2A7CECC943}|QuanLySieuThi\\QuanLySieuThi.csproj|solutionrelative:quanlysieuthi\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA7A9888-FA04-466B-90D0-CF2A7CECC943}|QuanLySieuThi\\QuanLySieuThi.csproj|C:\\Users\\TUF-GAMING\\Desktop\\PhanmemquanlySieuThi\\PhanmemquanlySieuThi\\QuanLySieuThi\\quanlysieuthi\\main2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA7A9888-FA04-466B-90D0-CF2A7CECC943}|QuanLySieuThi\\QuanLySieuThi.csproj|solutionrelative:quanlysieuthi\\main2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA7A9888-FA04-466B-90D0-CF2A7CECC943}|QuanLySieuThi\\QuanLySieuThi.csproj|C:\\Users\\TUF-GAMING\\Desktop\\PhanmemquanlySieuThi\\PhanmemquanlySieuThi\\QuanLySieuThi\\quanlysieuthi\\main1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA7A9888-FA04-466B-90D0-CF2A7CECC943}|QuanLySieuThi\\QuanLySieuThi.csproj|solutionrelative:quanlysieuthi\\main1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA7A9888-FA04-466B-90D0-CF2A7CECC943}|QuanLySieuThi\\QuanLySieuThi.csproj|C:\\Users\\TUF-GAMING\\Desktop\\PhanmemquanlySieuThi\\PhanmemquanlySieuThi\\QuanLySieuThi\\quanlysieuthi\\dangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA7A9888-FA04-466B-90D0-CF2A7CECC943}|QuanLySieuThi\\QuanLySieuThi.csproj|solutionrelative:quanlysieuthi\\dangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA7A9888-FA04-466B-90D0-CF2A7CECC943}|QuanLySieuThi\\QuanLySieuThi.csproj|C:\\Users\\TUF-GAMING\\Desktop\\PhanmemquanlySieuThi\\PhanmemquanlySieuThi\\QuanLySieuThi\\quanlysieuthi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA7A9888-FA04-466B-90D0-CF2A7CECC943}|QuanLySieuThi\\QuanLySieuThi.csproj|solutionrelative:quanlysieuthi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA7A9888-FA04-466B-90D0-CF2A7CECC943}|QuanLySieuThi\\QuanLySieuThi.csproj|C:\\Users\\TUF-GAMING\\Desktop\\PhanmemquanlySieuThi\\PhanmemquanlySieuThi\\QuanLySieuThi\\quanlysieuthi\\chuoiketnoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA7A9888-FA04-466B-90D0-CF2A7CECC943}|QuanLySieuThi\\QuanLySieuThi.csproj|solutionrelative:quanlysieuthi\\chuoiketnoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "qlphieuxuat.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\TUF-GAMING\\Desktop\\PhanmemquanlySieuThi\\PhanmemquanlySieuThi\\QuanLySieuThi\\QuanLySieuThi\\quanly\\qlphieuxuat.cs",
+              "RelativeDocumentMoniker": "QuanLySieuThi\\quanly\\qlphieuxuat.cs",
+              "ToolTip": "C:\\Users\\TUF-GAMING\\Desktop\\PhanmemquanlySieuThi\\PhanmemquanlySieuThi\\QuanLySieuThi\\QuanLySieuThi\\quanly\\qlphieuxuat.cs [Design]",
+              "RelativeToolTip": "QuanLySieuThi\\quanly\\qlphieuxuat.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T15:18:28.092Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "tkadmin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\TUF-GAMING\\Desktop\\PhanmemquanlySieuThi\\PhanmemquanlySieuThi\\QuanLySieuThi\\QuanLySieuThi\\TaiKhoan\\tkadmin.cs",
+              "RelativeDocumentMoniker": "QuanLySieuThi\\TaiKhoan\\tkadmin.cs",
+              "ToolTip": "C:\\Users\\TUF-GAMING\\Desktop\\PhanmemquanlySieuThi\\PhanmemquanlySieuThi\\QuanLySieuThi\\QuanLySieuThi\\TaiKhoan\\tkadmin.cs [Design]",
+              "RelativeToolTip": "QuanLySieuThi\\TaiKhoan\\tkadmin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T15:24:26.193Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "nhacungcap.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\TUF-GAMING\\Desktop\\PhanmemquanlySieuThi\\PhanmemquanlySieuThi\\QuanLySieuThi\\QuanLySieuThi\\quanly\\nhacungcap.cs",
+              "RelativeDocumentMoniker": "QuanLySieuThi\\quanly\\nhacungcap.cs",
+              "ToolTip": "C:\\Users\\TUF-GAMING\\Desktop\\PhanmemquanlySieuThi\\PhanmemquanlySieuThi\\QuanLySieuThi\\QuanLySieuThi\\quanly\\nhacungcap.cs [Design]",
+              "RelativeToolTip": "QuanLySieuThi\\quanly\\nhacungcap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T15:18:23.954Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "tknhanvien.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\TUF-GAMING\\Desktop\\PhanmemquanlySieuThi\\PhanmemquanlySieuThi\\QuanLySieuThi\\QuanLySieuThi\\TaiKhoan\\tknhanvien.cs",
+              "RelativeDocumentMoniker": "QuanLySieuThi\\TaiKhoan\\tknhanvien.cs",
+              "ToolTip": "C:\\Users\\TUF-GAMING\\Desktop\\PhanmemquanlySieuThi\\PhanmemquanlySieuThi\\QuanLySieuThi\\QuanLySieuThi\\TaiKhoan\\tknhanvien.cs [Design]",
+              "RelativeToolTip": "QuanLySieuThi\\TaiKhoan\\tknhanvien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T15:24:32.892Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "tkquanly.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\TUF-GAMING\\Desktop\\PhanmemquanlySieuThi\\PhanmemquanlySieuThi\\QuanLySieuThi\\QuanLySieuThi\\TaiKhoan\\tkquanly.cs",
+              "RelativeDocumentMoniker": "QuanLySieuThi\\TaiKhoan\\tkquanly.cs",
+              "ToolTip": "C:\\Users\\TUF-GAMING\\Desktop\\PhanmemquanlySieuThi\\PhanmemquanlySieuThi\\QuanLySieuThi\\QuanLySieuThi\\TaiKhoan\\tkquanly.cs [Design]",
+              "RelativeToolTip": "QuanLySieuThi\\TaiKhoan\\tkquanly.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T14:20:50.347Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "qlphieunhap1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\TUF-GAMING\\Desktop\\PhanmemquanlySieuThi\\PhanmemquanlySieuThi\\QuanLySieuThi\\QuanLySieuThi\\quanly\\qlphieunhap1.cs",
+              "RelativeDocumentMoniker": "QuanLySieuThi\\quanly\\qlphieunhap1.cs",
+              "ToolTip": "C:\\Users\\TUF-GAMING\\Desktop\\PhanmemquanlySieuThi\\PhanmemquanlySieuThi\\QuanLySieuThi\\QuanLySieuThi\\quanly\\qlphieunhap1.cs [Design]",
+              "RelativeToolTip": "QuanLySieuThi\\quanly\\qlphieunhap1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T15:18:26.039Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "nhanvien.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\TUF-GAMING\\Desktop\\PhanmemquanlySieuThi\\PhanmemquanlySieuThi\\QuanLySieuThi\\QuanLySieuThi\\quanly\\nhanvien.cs",
+              "RelativeDocumentMoniker": "QuanLySieuThi\\quanly\\nhanvien.cs",
+              "ToolTip": "C:\\Users\\TUF-GAMING\\Desktop\\PhanmemquanlySieuThi\\PhanmemquanlySieuThi\\QuanLySieuThi\\QuanLySieuThi\\quanly\\nhanvien.cs [Design]",
+              "RelativeToolTip": "QuanLySieuThi\\quanly\\nhanvien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T15:18:24.914Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "khachhang.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\TUF-GAMING\\Desktop\\PhanmemquanlySieuThi\\PhanmemquanlySieuThi\\QuanLySieuThi\\QuanLySieuThi\\quanly\\khachhang.cs",
+              "RelativeDocumentMoniker": "QuanLySieuThi\\quanly\\khachhang.cs",
+              "ToolTip": "C:\\Users\\TUF-GAMING\\Desktop\\PhanmemquanlySieuThi\\PhanmemquanlySieuThi\\QuanLySieuThi\\QuanLySieuThi\\quanly\\khachhang.cs [Design]",
+              "RelativeToolTip": "QuanLySieuThi\\quanly\\khachhang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T15:18:16.621Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "sanpham.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\TUF-GAMING\\Desktop\\PhanmemquanlySieuThi\\PhanmemquanlySieuThi\\QuanLySieuThi\\QuanLySieuThi\\quanly\\sanpham.cs",
+              "RelativeDocumentMoniker": "QuanLySieuThi\\quanly\\sanpham.cs",
+              "ToolTip": "C:\\Users\\TUF-GAMING\\Desktop\\PhanmemquanlySieuThi\\PhanmemquanlySieuThi\\QuanLySieuThi\\QuanLySieuThi\\quanly\\sanpham.cs [Design]",
+              "RelativeToolTip": "QuanLySieuThi\\quanly\\sanpham.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T15:18:29.074Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PhieuNhap.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\TUF-GAMING\\Desktop\\PhanmemquanlySieuThi\\PhanmemquanlySieuThi\\QuanLySieuThi\\QuanLySieuThi\\banhang\\PhieuNhap.cs",
+              "RelativeDocumentMoniker": "QuanLySieuThi\\banhang\\PhieuNhap.cs",
+              "ToolTip": "C:\\Users\\TUF-GAMING\\Desktop\\PhanmemquanlySieuThi\\PhanmemquanlySieuThi\\QuanLySieuThi\\QuanLySieuThi\\banhang\\PhieuNhap.cs [Design]",
+              "RelativeToolTip": "QuanLySieuThi\\banhang\\PhieuNhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T15:25:24.486Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "nhanvien.cs",
+              "DocumentMoniker": "C:\\Users\\TUF-GAMING\\Desktop\\PhanmemquanlySieuThi\\PhanmemquanlySieuThi\\QuanLySieuThi\\QuanLySieuThi\\quanly\\nhanvien.cs",
+              "RelativeDocumentMoniker": "QuanLySieuThi\\quanly\\nhanvien.cs",
+              "ToolTip": "C:\\Users\\TUF-GAMING\\Desktop\\PhanmemquanlySieuThi\\PhanmemquanlySieuThi\\QuanLySieuThi\\QuanLySieuThi\\quanly\\nhanvien.cs",
+              "RelativeToolTip": "QuanLySieuThi\\quanly\\nhanvien.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwDIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T15:46:01.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "dbo.Admin [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/ALIEN_SQLEXPRESS/QuanLySieuThi/True/SqlTable/dbo.Admin.sql",
+              "ToolTip": "dbo.Admin [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-05-04T15:44:25.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "banhang.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\TUF-GAMING\\Desktop\\PhanmemquanlySieuThi\\PhanmemquanlySieuThi\\QuanLySieuThi\\QuanLySieuThi\\banhang\\banhang.cs",
+              "RelativeDocumentMoniker": "QuanLySieuThi\\banhang\\banhang.cs",
+              "ToolTip": "C:\\Users\\TUF-GAMING\\Desktop\\PhanmemquanlySieuThi\\PhanmemquanlySieuThi\\QuanLySieuThi\\QuanLySieuThi\\banhang\\banhang.cs [Design]",
+              "RelativeToolTip": "QuanLySieuThi\\banhang\\banhang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T14:54:25.877Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "khachhang.cs",
+              "DocumentMoniker": "C:\\Users\\TUF-GAMING\\Desktop\\PhanmemquanlySieuThi\\PhanmemquanlySieuThi\\QuanLySieuThi\\QuanLySieuThi\\quanly\\khachhang.cs",
+              "RelativeDocumentMoniker": "QuanLySieuThi\\quanly\\khachhang.cs",
+              "ToolTip": "C:\\Users\\TUF-GAMING\\Desktop\\PhanmemquanlySieuThi\\PhanmemquanlySieuThi\\QuanLySieuThi\\QuanLySieuThi\\quanly\\khachhang.cs",
+              "RelativeToolTip": "QuanLySieuThi\\quanly\\khachhang.cs",
+              "ViewState": "AQIAAHIAAAAAAAAAAAD4v4QAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T15:18:34.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PhieuXuat.cs",
+              "DocumentMoniker": "C:\\Users\\TUF-GAMING\\Desktop\\PhanmemquanlySieuThi\\PhanmemquanlySieuThi\\QuanLySieuThi\\QuanLySieuThi\\banhang\\PhieuXuat.cs",
+              "RelativeDocumentMoniker": "QuanLySieuThi\\banhang\\PhieuXuat.cs",
+              "ToolTip": "C:\\Users\\TUF-GAMING\\Desktop\\PhanmemquanlySieuThi\\PhanmemquanlySieuThi\\QuanLySieuThi\\QuanLySieuThi\\banhang\\PhieuXuat.cs",
+              "RelativeToolTip": "QuanLySieuThi\\banhang\\PhieuXuat.cs",
+              "ViewState": "AQIAAJ8AAAAAAAAAAAAwwNcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T15:43:44.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PhieuXuat.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\TUF-GAMING\\Desktop\\PhanmemquanlySieuThi\\PhanmemquanlySieuThi\\QuanLySieuThi\\QuanLySieuThi\\banhang\\PhieuXuat.cs",
+              "RelativeDocumentMoniker": "QuanLySieuThi\\banhang\\PhieuXuat.cs",
+              "ToolTip": "C:\\Users\\TUF-GAMING\\Desktop\\PhanmemquanlySieuThi\\PhanmemquanlySieuThi\\QuanLySieuThi\\QuanLySieuThi\\banhang\\PhieuXuat.cs [Design]",
+              "RelativeToolTip": "QuanLySieuThi\\banhang\\PhieuXuat.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T15:25:28.602Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DoiMk.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\TUF-GAMING\\Desktop\\PhanmemquanlySieuThi\\PhanmemquanlySieuThi\\QuanLySieuThi\\QuanLySieuThi\\TaiKhoan\\DoiMk.cs",
+              "RelativeDocumentMoniker": "QuanLySieuThi\\TaiKhoan\\DoiMk.cs",
+              "ToolTip": "C:\\Users\\TUF-GAMING\\Desktop\\PhanmemquanlySieuThi\\PhanmemquanlySieuThi\\QuanLySieuThi\\QuanLySieuThi\\TaiKhoan\\DoiMk.cs [Design]",
+              "RelativeToolTip": "QuanLySieuThi\\TaiKhoan\\DoiMk.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T15:22:37.062Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "banhang.cs",
+              "DocumentMoniker": "C:\\Users\\TUF-GAMING\\Desktop\\PhanmemquanlySieuThi\\PhanmemquanlySieuThi\\QuanLySieuThi\\QuanLySieuThi\\banhang\\banhang.cs",
+              "RelativeDocumentMoniker": "QuanLySieuThi\\banhang\\banhang.cs",
+              "ToolTip": "C:\\Users\\TUF-GAMING\\Desktop\\PhanmemquanlySieuThi\\PhanmemquanlySieuThi\\QuanLySieuThi\\QuanLySieuThi\\banhang\\banhang.cs",
+              "RelativeToolTip": "QuanLySieuThi\\banhang\\banhang.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAAACgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T15:08:26.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PhieuNhap.cs",
+              "DocumentMoniker": "C:\\Users\\TUF-GAMING\\Desktop\\PhanmemquanlySieuThi\\PhanmemquanlySieuThi\\QuanLySieuThi\\QuanLySieuThi\\banhang\\PhieuNhap.cs",
+              "RelativeDocumentMoniker": "QuanLySieuThi\\banhang\\PhieuNhap.cs",
+              "ToolTip": "C:\\Users\\TUF-GAMING\\Desktop\\PhanmemquanlySieuThi\\PhanmemquanlySieuThi\\QuanLySieuThi\\QuanLySieuThi\\banhang\\PhieuNhap.cs",
+              "RelativeToolTip": "QuanLySieuThi\\banhang\\PhieuNhap.cs",
+              "ViewState": "AQIAABQBAAAAAAAAAAAewCkBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T15:31:20.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DangKy.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\TUF-GAMING\\Desktop\\PhanmemquanlySieuThi\\PhanmemquanlySieuThi\\QuanLySieuThi\\QuanLySieuThi\\DangKy.cs",
+              "RelativeDocumentMoniker": "QuanLySieuThi\\DangKy.cs",
+              "ToolTip": "C:\\Users\\TUF-GAMING\\Desktop\\PhanmemquanlySieuThi\\PhanmemquanlySieuThi\\QuanLySieuThi\\QuanLySieuThi\\DangKy.cs [Design]",
+              "RelativeToolTip": "QuanLySieuThi\\DangKy.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T14:30:24.813Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Dangnhap.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\TUF-GAMING\\Desktop\\PhanmemquanlySieuThi\\PhanmemquanlySieuThi\\QuanLySieuThi\\QuanLySieuThi\\Dangnhap.cs",
+              "RelativeDocumentMoniker": "QuanLySieuThi\\Dangnhap.cs",
+              "ToolTip": "C:\\Users\\TUF-GAMING\\Desktop\\PhanmemquanlySieuThi\\PhanmemquanlySieuThi\\QuanLySieuThi\\QuanLySieuThi\\Dangnhap.cs [Design]",
+              "RelativeToolTip": "QuanLySieuThi\\Dangnhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T14:18:37.799Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Dangnhap.cs",
+              "DocumentMoniker": "C:\\Users\\TUF-GAMING\\Desktop\\PhanmemquanlySieuThi\\PhanmemquanlySieuThi\\QuanLySieuThi\\QuanLySieuThi\\Dangnhap.cs",
+              "RelativeDocumentMoniker": "QuanLySieuThi\\Dangnhap.cs",
+              "ToolTip": "C:\\Users\\TUF-GAMING\\Desktop\\PhanmemquanlySieuThi\\PhanmemquanlySieuThi\\QuanLySieuThi\\QuanLySieuThi\\Dangnhap.cs",
+              "RelativeToolTip": "QuanLySieuThi\\Dangnhap.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAkwFkAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T14:26:11.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "main1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\TUF-GAMING\\Desktop\\PhanmemquanlySieuThi\\PhanmemquanlySieuThi\\QuanLySieuThi\\QuanLySieuThi\\main1.cs",
+              "RelativeDocumentMoniker": "QuanLySieuThi\\main1.cs",
+              "ToolTip": "C:\\Users\\TUF-GAMING\\Desktop\\PhanmemquanlySieuThi\\PhanmemquanlySieuThi\\QuanLySieuThi\\QuanLySieuThi\\main1.cs [Design]",
+              "RelativeToolTip": "QuanLySieuThi\\main1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T14:20:10.689Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "main2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\TUF-GAMING\\Desktop\\PhanmemquanlySieuThi\\PhanmemquanlySieuThi\\QuanLySieuThi\\QuanLySieuThi\\main2.cs",
+              "RelativeDocumentMoniker": "QuanLySieuThi\\main2.cs",
+              "ToolTip": "C:\\Users\\TUF-GAMING\\Desktop\\PhanmemquanlySieuThi\\PhanmemquanlySieuThi\\QuanLySieuThi\\QuanLySieuThi\\main2.cs [Design]",
+              "RelativeToolTip": "QuanLySieuThi\\main2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T14:35:24.992Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "main1.cs",
+              "DocumentMoniker": "C:\\Users\\TUF-GAMING\\Desktop\\PhanmemquanlySieuThi\\PhanmemquanlySieuThi\\QuanLySieuThi\\QuanLySieuThi\\main1.cs",
+              "RelativeDocumentMoniker": "QuanLySieuThi\\main1.cs",
+              "ToolTip": "C:\\Users\\TUF-GAMING\\Desktop\\PhanmemquanlySieuThi\\PhanmemquanlySieuThi\\QuanLySieuThi\\QuanLySieuThi\\main1.cs",
+              "RelativeToolTip": "QuanLySieuThi\\main1.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAWwEEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T14:20:15.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "main2.cs",
+              "DocumentMoniker": "C:\\Users\\TUF-GAMING\\Desktop\\PhanmemquanlySieuThi\\PhanmemquanlySieuThi\\QuanLySieuThi\\QuanLySieuThi\\main2.cs",
+              "RelativeDocumentMoniker": "QuanLySieuThi\\main2.cs",
+              "ToolTip": "C:\\Users\\TUF-GAMING\\Desktop\\PhanmemquanlySieuThi\\PhanmemquanlySieuThi\\QuanLySieuThi\\QuanLySieuThi\\main2.cs",
+              "RelativeToolTip": "QuanLySieuThi\\main2.cs",
+              "ViewState": "AQIAAFkAAAAAAAAAAAAlwIwAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T14:39:22.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "DangKy.cs",
+              "DocumentMoniker": "C:\\Users\\TUF-GAMING\\Desktop\\PhanmemquanlySieuThi\\PhanmemquanlySieuThi\\QuanLySieuThi\\QuanLySieuThi\\DangKy.cs",
+              "RelativeDocumentMoniker": "QuanLySieuThi\\DangKy.cs",
+              "ToolTip": "C:\\Users\\TUF-GAMING\\Desktop\\PhanmemquanlySieuThi\\PhanmemquanlySieuThi\\QuanLySieuThi\\QuanLySieuThi\\DangKy.cs",
+              "RelativeToolTip": "QuanLySieuThi\\DangKy.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAgwB0AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T14:30:35.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\TUF-GAMING\\Desktop\\PhanmemquanlySieuThi\\PhanmemquanlySieuThi\\QuanLySieuThi\\QuanLySieuThi\\Program.cs",
+              "RelativeDocumentMoniker": "QuanLySieuThi\\Program.cs",
+              "ToolTip": "C:\\Users\\TUF-GAMING\\Desktop\\PhanmemquanlySieuThi\\PhanmemquanlySieuThi\\QuanLySieuThi\\QuanLySieuThi\\Program.cs",
+              "RelativeToolTip": "QuanLySieuThi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T14:23:23.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "chuoiketnoi.cs",
+              "DocumentMoniker": "C:\\Users\\TUF-GAMING\\Desktop\\PhanmemquanlySieuThi\\PhanmemquanlySieuThi\\QuanLySieuThi\\QuanLySieuThi\\chuoiketnoi.cs",
+              "RelativeDocumentMoniker": "QuanLySieuThi\\chuoiketnoi.cs",
+              "ToolTip": "C:\\Users\\TUF-GAMING\\Desktop\\PhanmemquanlySieuThi\\PhanmemquanlySieuThi\\QuanLySieuThi\\QuanLySieuThi\\chuoiketnoi.cs",
+              "RelativeToolTip": "QuanLySieuThi\\chuoiketnoi.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAB9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T14:21:21.314Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
